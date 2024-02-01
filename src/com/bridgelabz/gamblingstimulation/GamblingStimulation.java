@@ -3,7 +3,7 @@ package com.bridgelabz.gamblingstimulation;
 
 import java.util.Random;
 
-public class gamblingstimulation {
+public class GamblingStimulation {
 
     public static void main(String[] args) {
 
